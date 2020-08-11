@@ -1,3 +1,3 @@
-module HW12.Java.lates.version.features.overview {
+module JavaLatestVersionFeaturesOverview {
     requires user;
 }
